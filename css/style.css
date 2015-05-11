@@ -23,7 +23,7 @@
 	color: #dddddd;
 }
 .social a {
-	font-size: 30px;
+	font-size: 40px;
 }
 
 #wrapper {
@@ -39,6 +39,7 @@
 	background-color: black;
 	color: white;
 	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+	line-height: 20px;
 }
 
 #bio p {
@@ -47,17 +48,28 @@
 	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 	font-size: 15px;
 	padding-left: 2em;
+	text-align: justify; 
+	padding-right: 2em;
 }
 
 #bio h2 {
 	font-size: 50px; 
-	padding-left: 1em;
+}
+#bio h3 {
+	font-size: 30px;
+	text-align: center; 
+}
+#bio img {
+	height: 45px;
 }
 .spacer {
 	height: 10em;
 }
 .spacer2 {
-	height: 5em;
+	height: 3em;
+	}
+.spacer3 {
+	height: 1em;
 	}
 
 .navbar-transparent {
