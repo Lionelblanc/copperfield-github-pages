@@ -2,6 +2,8 @@
 	background-color: black;
 	font-family: "Ropa Sans";
 	font-size: 14px;
+	margin-left: 5em;
+	margin-right: 5em;
 }
 
 #footer {
@@ -9,6 +11,8 @@
 	color: #aaaaaa;
 	padding-top: 3em;
 	padding-bottom: 3em;
+	margin-left: 3em;
+	margin-right: 3em;
 }
 
 #footer a {
@@ -37,15 +41,19 @@
 	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 	line-height: 20px;
 }
+#bio hr{
+	margin-left: 4em;
+	margin-right: 4em;
+}
 
 #bio p {
 	background-color: black;
 	color: white;
 	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 	font-size: 15px;
-	padding-left: 2em;
+	padding-left: 4em;
 	text-align: justify; 
-	padding-right: 2em;
+	padding-right: 4em;
 }
 
 #bio h2 {
